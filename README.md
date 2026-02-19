@@ -52,11 +52,11 @@ Clean Code & Maintainability
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A7hmed111&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A7hmed111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A7hmed111&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7hmed111&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 
