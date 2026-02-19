@@ -13,51 +13,48 @@ from responsive frontends to secure backend systems.
 
 <h3 align="center">⚒️ Tech Stack</h3>
 
-<div align="center">
 
-Frontend  
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,tailwind" />
-<br/><br/>
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,tailwind" />
+</p>
 
-Backend  
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,java,spring" />
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,java,spring" />
+</p>
 
-<br/><br/>
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/mongodb.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/oracle-logo.png" height="50"/>
+</p>
 
-Database & Tools  
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,linux,vscode" />
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,python" />
+</p>
 
-</div>
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
-<h3 align="center">🚀 Core Focus</h3>
+<h3 align="center">🚀 Engineering Focus</h3>
 
 <div align="center">
 
-Scalable Architecture  
-RESTful API Development  
+Full Stack Web Development  
+RESTful API Design & Integration  
 Authentication & Authorization  
-Performance Optimization  
-Clean Code & Maintainability  
+Database Design & Optimization  
+Performance & Scalability  
 
 </div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7hmed111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7hmed111&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 
 ---
 
