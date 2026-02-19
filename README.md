@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&section=header&text=Ahmed%20Osama%20Kamel%20Mohsen&fontSize=32&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header&text=Ahmed%20Osama%20Kamel%20Mohsen&fontSize=28&fontAlignY=35&animation=fadeIn" />
 </div>
 
-<h2 align="center">Full Stack Developer</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=26&center=true&vCenter=true&width=620&height=45&duration=4000&lines=Full+Stack+Developer;Software+Engineer;Designing+Scalable+Systems;Building+Production-Ready+Applications" />
+</h1>
 
 <p align="center">
-Building scalable and maintainable web applications —  
+Building scalable and maintainable web applications —
 from responsive frontends to secure backend systems.
 </p>
 
 ---
 
 <h3 align="center">⚒️ Tech Stack</h3>
-
 
 <h4 align="center">Frontend</h4>
 <p align="center">
@@ -26,10 +27,10 @@ from responsive frontends to secure backend systems.
 
 <h4 align="center">Databases</h4>
 <p align="center">
-  <img src="https://img.icons8.com/color/96/mysql-logo.png" height="50"/>
-  <img src="https://img.icons8.com/color/96/mongodb.png" height="50"/>
-  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="50"/>
-  <img src="https://img.icons8.com/color/96/oracle-logo.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/mysql-logo.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/mongodb.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" height="48"/>
+  <img src="https://img.icons8.com/color/96/oracle-logo.png" height="48"/>
 </p>
 
 <h4 align="center">Languages</h4>
@@ -44,17 +45,19 @@ from responsive frontends to secure backend systems.
 
 ---
 
+<h3 align="center">📌 Currently Building</h3>
+
+<p align="center">
+Designing and building scalable full stack systems with production-level architecture.
+</p>
+
+---
+
 <h3 align="center">🚀 Engineering Focus</h3>
 
-<div align="center">
-
-Full Stack Web Development  
-RESTful API Design & Integration  
-Authentication & Authorization  
-Database Design & Optimization  
-Performance & Scalability  
-
-</div>
+<p align="center">
+Full Stack Web Development • RESTful API Design • Authentication & Authorization • Database Optimization • Scalable Architecture
+</p>
 
 ---
 
