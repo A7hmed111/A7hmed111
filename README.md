@@ -18,7 +18,6 @@ from responsive frontends to secure backend systems.
 Frontend  
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,tailwind" />
-
 <br/><br/>
 
 Backend  
