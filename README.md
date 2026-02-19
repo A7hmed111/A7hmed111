@@ -52,9 +52,13 @@ Clean Code & Maintainability
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7hmed111&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7hmed111&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A7hmed111&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A7hmed111&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
 
 ---
 
@@ -63,9 +67,6 @@ Clean Code & Maintainability
 <div align="center">
   <a href="https://linkedin.com/in/AhmedMohsen11">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/_Aahmed_Osama">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:aahmedosamaaa64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
